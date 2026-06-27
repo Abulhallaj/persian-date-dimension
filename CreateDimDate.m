@@ -26,9 +26,9 @@ in
 DayofYear, Documentation = [
    Documentation.Name =  "fxDateShamsi",
    Documentation.LongDescription = "Shamsi Date Table Tool",
-   Documentation.Author = "Vahid DM",
+   Documentation.Author = "Ali Abulhallaj",
    Documentation.Category = "Table", 
-   Documentation.Version = "0.00"
+   Documentation.Version = "0.03"
    
     ] 
   in 
